@@ -1,0 +1,113 @@
+@media (max-width:320px){
+    .navbar {
+        float: none;
+    }
+    .navbar li:last-child{
+        width: 40%;
+    }
+    .header-email {
+       padding: 0;
+    }
+    .header-message {
+        width: 100%;
+    }
+    .message-user {
+        left: 50px;
+        width: 100%;
+    }
+    .message-leila{
+        left: -60px;
+        width: 100%;
+    }
+    .data-blocImg{
+        float: none;
+    }
+    .data-content{
+        float: none;
+    }
+    .patterns-content{
+        float: none;
+    }
+    .patterns-blocImg{
+        float: none;
+    }
+    .advice-content{
+        float: none;
+    }
+    .advice-blocImg{
+        float: none;
+    }
+    .content{
+        width: 80%;
+    }
+    .blocImg-leila {
+        width: 80%;
+    }
+}
+@media (max-width:768px){
+    .header-container{
+        width: 90%;
+        padding: 0px;
+    }
+    .submit {
+        width: 25%;
+    }
+    .title-name{
+        width: 90%;
+        margin: auto;
+    }
+    .title-content {
+        width: 100%;
+    }
+    .header-message{
+        width: 90%;   
+    }
+    .navbar li {
+        float: none;
+    }
+    .leila-container{
+        width: 90%;
+        margin: auto;
+    }
+    .cards-container{
+        width: 90%;
+        margin: auto;
+    }
+    .integration-container{
+        width: 90%;
+        margin: auto;
+    }
+    .video-container{
+        width: 90%;
+        margin: auto;
+    }
+    .advantage-container{
+        width: 80%;
+        margin: auto;     
+    }
+    .footer-container{
+        width: 100%;
+        margin: auto;  
+    }
+}
+@media (max-width:1024px){
+    .title-conten{
+        width: 100%; 
+    }
+    .header-email {
+        width: 90%;
+    }
+    .header-message{
+        width: 60%;   
+    }
+}
+@media (min-width:2000px){
+    .navbar li{
+        font-size: 25px;
+        padding: 13px;
+    }
+    .title-name{
+        margin-top: 30px;
+        font: 100 30px 'Open Sans', sans-serif;
+    }
+}
