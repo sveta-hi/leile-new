@@ -1,0 +1,43 @@
+@media (max-width:600px){
+    .header-container{
+        width: 90%;
+        padding: 0px;
+    }
+    .submit {
+        width: 25%;
+    }
+    .title-name{
+        width: 90%;
+        margin: auto;
+    }
+    .title-content {
+        width: 100%;
+    }
+    .header-message{
+        width: 90%;   
+    }
+    .navbar li {
+        float: none;
+    }
+}
+@media (max-width:1100px){
+    .title-conten{
+        width: 100%; 
+    }
+    .header-email {
+        width: 90%;
+    }
+    .header-message{
+        width: 60%;   
+    }
+}
+@media (min-width:2000px){
+    .navbar li{
+        font-size: 25px;
+        padding: 13px;
+    }
+    .title-name{
+        margin-top: 30px;
+        font: 100 30px 'Open Sans', sans-serif;
+    }
+}
